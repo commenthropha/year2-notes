@@ -1,0 +1,2 @@
+- When there are multiple users or multiple jobs running at the same time, resources must be allocated to each of them.
+- The CPU does this using [[CPU Scheduling]]
