@@ -1,0 +1,1 @@
+Programs are required to read/write to directories and these functions may be subject to permission management; the OS provides [[System Calls]] to achieve these.
