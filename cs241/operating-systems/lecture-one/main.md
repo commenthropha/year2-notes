@@ -13,8 +13,11 @@ The goal of the operating system at all times is to **avoid failures and errors*
 - [[Program Execution]]
 - [[IO Operations]]
 - [[File System Management]]
+- [[Communications]]
+- [[Error Handling]]
+- [[Resource Allocation]]
+- [[Accounting]]
 - 
-
 
 
 
