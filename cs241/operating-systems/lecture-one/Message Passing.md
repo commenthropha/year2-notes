@@ -1,0 +1,1 @@
+A technique for invoking behaviour whereby the invoking program sends a  message to a process and relies on that process to then select and run some appropriate code
