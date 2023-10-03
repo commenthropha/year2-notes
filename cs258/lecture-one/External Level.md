@@ -1,0 +1,5 @@
+- At the external level, a database contains several schemas that sometimes called as **subschema**. 
+	- The **subschema** is used to describe the different view of the database.
+- An external schema is also known as view schema.
+- Each view schema describes the database part that a particular user group is interested and hides the remaining database from that user group.
+- The view schema describes the end user interaction with database systems.
