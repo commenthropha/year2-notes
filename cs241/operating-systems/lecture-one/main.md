@@ -27,7 +27,7 @@ A significant part of an operating system is the [[Kernel]]
 
 Kernel space is kept protected from the user space, however it can be accessed through [[System Calls]]
 ### How to distinguish between the two?
-We are able to distinguish between OS operations and user operations using [[Dual Mode Operation]]
+We are able to distinguish between OS (kernel) operations and user operations using [[Dual Mode Operation]]
 
 
 
