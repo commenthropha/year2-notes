@@ -33,7 +33,7 @@ Over time, a range of different structures have been used for operating systems.
 - Early operating systems (e.g. MS-DOS, UNIX) had large, [[monolithic kernels]]
 -  The [[Mach]] OS modularised the kernel using a [[Microkernels||microkernel]] approach
 - A [[layered approach]] may be preferred for a slightly different modular design 
-- A modern OS design prefers loadable kernel modules
+- A modern OS design prefers [[loadable kernel modules]]
 
 
 
