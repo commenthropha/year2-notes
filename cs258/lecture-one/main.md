@@ -23,5 +23,14 @@ A framework commonly used to describe the *structure* of a database system is th
 	- Databases are designed with **structured data** in mind
  
 # The Relational Model
-### Formal Definition
-Informally, a relation is a **table** of values having a set of rows and columns
+## Informal Definition
+A database can be described as *a set of structured data stored in a computer*. Relational databases are an extension of that concept based on a relational model of data storage. 
+
+In this model, databases are comprised of **tables** (also called [[Relation||relations]]), which themselves consist of **rows** (also called [[Tuple|tuples]]) and **columns** which represent an individual characteristic/attribute of interest of that entity
+
+The structure or shape of the data in the table is called the **table schema**. The set of tables schemas in a database is called the **database schema**.
+## Formal Definitions
+- [[Tuple]]
+- [[Relation]]
+- [[Domain]]
+- [[Relation State]]
