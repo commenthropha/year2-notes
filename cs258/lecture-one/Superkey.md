@@ -1,0 +1,1 @@
+A superkey is a set of attributes such that no two distinct rows have the same superkey
