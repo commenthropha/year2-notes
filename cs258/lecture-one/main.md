@@ -34,21 +34,24 @@ The structure or shape of the data in the table is called the **table schema**. 
 - [[Relation]]
 - [[Domain]]
 - [[Relation State]]
-### Keys
+## Keys
 Keys encode the concept of unique identification in Relational Databases
 
 A [[superkey]] uniquely identifies a tuple in a relation
 We can extend this idea to define a [[candidate key]]
 
 We use *primary keys* to uniquely identify rows in a relation. While any [[superkey]] would be valid, using a [[candidate key]] is a simpler and more sensible approach
-### Constraints
-These narrow the set of valid values that an attribute can take from the domain. There are several notable types:
+## Constraints
+These narrow the set of valid/permissible values that an attribute can take from the domain. There are several notable types:
 
 | Constraint| Description | 
 | -------- | -------- |
 | Entity Integrity | Primary Keys cannot be `NULL` | 
 | Domain | Limit the domain of an attribute (`NOT NULL` on a key field can be considered a domain constraint) |
 | Referential Integrity | Foreign Keys cannot refer to non-existent rows. |
-| Domain | Item 5 || Domain | Item 5 |
-| Domain | Item 5 || Domain | Item 5 |
+| Semantic Attribute Integrity | Semantic constraints such as non-negative limit on a bank balance column |
+| Functional Dependencies | Describe relationships between columns (see next section) |
+## Functional Dependencies
+These establish a functional relationship between two sets of attributes based on the real-world relationships between those attributes.
 
+The expression X -> Y, read as "Y depends on X" is a [[Functional Dependency]], defined as follows:
