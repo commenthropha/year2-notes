@@ -3,7 +3,7 @@ The three-schema architecture breaks the database down into three levels. Starti
 2. [[Conceptual Level]]
 3. [[External Level]]
 
-These levels don't exist independently of each other; there is [[mapping between views]] to enable correspondence between the three types of schema.
+These levels don't exist independently of each other; there is [[Mapping Between Views]] to enable correspondence between the three types of schema.
 ### Advantages
 The separation offered by the 3 Schema DBMS Architecture is desirable as:
 - Different users need different views of the same data.

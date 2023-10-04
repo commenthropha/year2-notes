@@ -6,4 +6,4 @@
 - Security and reliability -  operations with increased vulnerability are restricted to the kernel
 - Extensibility - since new services are implemented at the user level, no work has to be done to modify the kernel
 ### Disadvantages
-- Decreased performance due to increased system call overhead as user-level services must use [[message passing]] to communicate
+- Decreased performance due to increased system call overhead as user-level services must use [[Message Passing]] to communicate

@@ -30,10 +30,10 @@ Kernel space is kept protected from the user space, however it can be accessed t
 We have a mechanism that allows us to distinguish between OS (kernel) operations and user operations in the way of [[Dual Mode Operation]]
 ## Operating System Structures
 Over time, a range of different structures have been used for operating systems. 
-- Early operating systems (e.g. MS-DOS, UNIX) had large, [[monolithic kernels]]
+- Early operating systems (e.g. MS-DOS, UNIX) had large, [[Monolithic Kernels]]
 -  The [[Mach]] OS modularised the kernel using a [[Microkernels||microkernel]] approach
-- A [[layered approach]] may be preferred for a slightly different modular design 
-- A modern OS design prefers [[loadable kernel modules]]
+- A [[Layered Approach]] may be preferred for a slightly different modular design 
+- A modern OS design prefers [[Loadable Kernel Modules]]
 
 
 

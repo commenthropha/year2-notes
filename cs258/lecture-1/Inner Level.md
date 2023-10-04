@@ -1,2 +1,2 @@
 - The internal level has an internal schema which describes the **physical storage structure** of the database.
-- It uses the **[[physical data model]]**.
+- It uses the **[[Physical Data Model]]**.

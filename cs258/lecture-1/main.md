@@ -12,7 +12,7 @@ In a nutshell, DB systems provide software to 'manage' data:
 ### Thinking of Database Systems (as a black box)
 We can think of a Database System as a "box" with a nice interface offering the above functionality that is based on:
 - an easy to understand data model
-- a [[declarative programming language]] (e.g. SQL)
+- a [[Declarative Programming Language]] (e.g. SQL)
 
 A framework commonly used to describe the *structure* of a database system is the [[3 Schema DBMS Architecture]] model.
 ### Key Facts about Data
@@ -37,10 +37,10 @@ The structure or shape of the data in the table is called the **table schema**. 
 ## Keys
 Keys encode the concept of unique identification in Relational Databases
 
-A [[superkey]] uniquely identifies a tuple in a relation
-We can extend this idea to define a [[candidate key]]
+A [[Superkey]] uniquely identifies a tuple in a relation
+We can extend this idea to define a [[Candidate Key]]
 
-We use *primary keys* to uniquely identify rows in a relation. While any [[superkey]] would be valid, using a [[candidate key]] is a simpler and more sensible approach
+We use *primary keys* to uniquely identify rows in a relation. While any [[Superkey]] would be valid, using a [[Candidate Key]] is a simpler and more sensible approach
 ## Constraints
 These narrow the set of valid/permissible values that an attribute can take from the domain. There are several notable types:
 
@@ -54,4 +54,6 @@ These narrow the set of valid/permissible values that an attribute can take from
 ## Functional Dependencies
 These establish a functional relationship between two sets of attributes based on the real-world relationships between those attributes.
 
-The expression X -> Y, read as "Y depends on X" is a [[Functional Dependency]], defined as follows:
+The expression X -> Y, read as "Y depends on X" is a [[Functional Dependency|functional dependency]]
+
+If X is a primary key, then every attribute is functionally dependent on X
