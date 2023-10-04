@@ -34,3 +34,21 @@ The structure or shape of the data in the table is called the **table schema**. 
 - [[Relation]]
 - [[Domain]]
 - [[Relation State]]
+### Keys
+Keys encode the concept of unique identification in Relational Databases
+
+A [[superkey]] uniquely identifies a tuple in a relation
+We can extend this idea to define a [[candidate key]]
+
+We use *primary keys* to uniquely identify rows in a relation. While any [[superkey]] would be valid, using a [[candidate key]] is a simpler and more sensible approach
+### Constraints
+These narrow the set of valid values that an attribute can take from the domain. There are several notable types:
+
+| Constraint| Description | 
+| -------- | -------- |
+| Entity Integrity | Primary Keys cannot be `NULL` | 
+| Domain | Limit the domain of an attribute (`NOT NULL` on a key field can be considered a domain constraint) |
+| Referential Integrity | Foreign Keys cannot refer to non-existent rows. |
+| Domain | Item 5 || Domain | Item 5 |
+| Domain | Item 5 || Domain | Item 5 |
+
