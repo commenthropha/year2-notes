@@ -1,0 +1,1 @@
+The process is waiting to be assigned to a processor
