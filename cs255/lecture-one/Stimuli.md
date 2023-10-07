@@ -1,0 +1,1 @@
+Observations and percepts from the environment

@@ -1,0 +1,1 @@
+[[Stimuli]] that the [[agent]] has received in the past

@@ -1,4 +1,4 @@
-# Processes
+# Processes 1
 ## Definition
 - A program is a **passive** entity stored as an executable file
 - A process is **a program in execution** that is an **active entity** 
@@ -36,4 +36,4 @@ An important data structure used by the OS to store information pertaining to a 
 ## Processor Scheduling
 To maximise CPU utilisation, most modern OS support [[Concurrency|concurrency]]
 
-The **processor scheduler** selects the next process for the CPU to execute and maintains the **scheduling queues** of all current processes
+The [[processor scheduler]] selects the next process for the CPU to execute and maintains the [[scheduling queues]] of all current processes

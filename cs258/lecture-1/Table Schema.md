@@ -1,0 +1,1 @@
+The structure or shape of the data in the table
