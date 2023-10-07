@@ -1,0 +1,1 @@
+In the context of 'Matching Medics', this refers to [[Perfect Matching|perfect matching]] with no [[Unstable Pair|unstable pairs]]
