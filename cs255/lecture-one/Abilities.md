@@ -1,0 +1,1 @@
+The set of possible actions for an [[Agent]]
