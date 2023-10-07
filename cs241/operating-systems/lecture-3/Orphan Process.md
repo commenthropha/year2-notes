@@ -1,0 +1,1 @@
+A child process whose parent process has exited before the child process is terminated
