@@ -54,9 +54,9 @@ This modules focuses on the engineering goal of designing useful, intelligent ag
 
 We can approach this design problem as being defined by 10 dimensions of complexity:
 ### 10 Dimensions
-1. [[Modularity]]
-2. [[Planning Horizon]]
-3. [[Representation]]
+1. Modularity
+2. Planning Horizon
+3. Representation
 4. Computational Limits
 5. Learning
 6. Sensing Uncertainty
