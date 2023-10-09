@@ -1,0 +1,1 @@
+A [[System Calls|system call]] used by a parent process to terminate a child process
