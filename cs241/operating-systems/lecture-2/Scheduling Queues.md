@@ -8,3 +8,5 @@ Contains processes in the [[Ready Process|ready]] state and is processed by the 
 Contains processes in the [[Waiting Process|waiting]] state (i.e. those waiting for an IO signal)
 
 When a process is done waiting it returns to the ready queue
+## Diagram
+![[Pasted image 20231009091204.png]]
