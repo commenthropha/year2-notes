@@ -1,0 +1,1 @@
+When a parent process is exiting in an OS that does not allow [[Orphan Process|orphan processes]] so the operating system also terminates all child processes 
