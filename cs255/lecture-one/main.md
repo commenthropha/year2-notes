@@ -64,3 +64,27 @@ We can approach this design problem as being defined by 10 dimensions of complex
 8. Preference
 9. Number of Agents
 10. Interaction
+#### Inter-level interaction
+These dimensions all interact in complex and intricate ways,; some interact more-so than others
+
+## Representations
+### Motivation
+To solve some informally defined task, we must first find a formal representation so we can use computational help, the output of which we then integrate into a real-world solution.
+### What do we want in a representation?
+We want a *good* representation to be:
+- Detailed
+- Accurate
+- Able to be acquired from people, data and [[past experiences]]
+- [[Amenable to a computational solution]]
+## Solutions
+### Assumptions
+Typically, given an informal definition of a problem, much is left unspecified but the unspecified parts cannot be filled in arbitrarily
+
+Much work in AI is motivated by [[common-sense reasoning]]
+### Quality of Solutions
+We can broadly categorise how [[Performance Measure|good]] a solution is using [[classes of solutions|classes]]
+## Reasoning
+### Definition
+We can think of reasoning as the computation which determines how the agent should act.
+
+There are broadly 3 [[categories of reasoning]]
