@@ -1,5 +1,6 @@
 # Agent Architecture and Hierarchical Control
-## Agent Systems
+## Agent Architecture
+### Agent Systems
 We can define an [[Agent System]] and abstract an [[Agent]] as comprising a [[Body]] and a [[Controller]]
 ### Agent Functions
 If we let T be the set of time points, we can define the following:
@@ -22,3 +23,5 @@ At every point in time a [[Controller]] has to decide on what the [[Agent]] shou
 For discrete time, a controller implements:
 - [[Belief State Function]]
 - [[Command Function]]
+## Hierarchical Control
+Rather than implementing an agent as a repeated imperative process of, *perception*, *reasoning* and *action*, we can use a hierarchy of controllers

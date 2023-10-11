@@ -45,10 +45,6 @@ etc.
 - What signs mean
 - What to stop for
 etc.
-
-
-
-
 ## Dimensions of Complexity
 This modules focuses on the engineering goal of designing useful, intelligent agents.
 
