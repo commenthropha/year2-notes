@@ -21,3 +21,13 @@ In reality, the world is often too complex to represent all possible states and 
 	In these cases we make abstractions which allow for practical representations
 
 ### Problem Types
+We can categorise problems as follows:
+- [[Single State Problem|Deterministic, Fully Observable]] (Single State Problem)
+- [[Multiple State Problem|Deterministic, Partially Observable]] (Multiple State Problem)
+- [[Contingency Problem|Stochastic, Partially Observable]] (Contingency Problem)
+- [[Online Exploration Problem|Unknown State Space, Knowledge is Learned]] (Online Exploration Problem)
+
+## Uninformed Search Techniques
+Before we begin to look at search techniques, we introduce two important notions; that of:
+- [[Admissible Algorithms]]
+- [[Complete Algorithms]]
