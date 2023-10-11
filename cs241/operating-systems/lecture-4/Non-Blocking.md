@@ -1,0 +1,2 @@
+- Multiple messages can be simultaneously in transit; if no messages are available the receiver reads a null value
+- This is considered to be an asynchronous system
