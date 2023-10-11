@@ -1,0 +1,1 @@
+[[Agent|Agents]] that are able to modify their behaviour based on their performance, or in light of new information

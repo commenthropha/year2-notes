@@ -1,0 +1,1 @@
+[[Agent|Agents]] that of rules which map percepts to actions while also considering [[past experiences]]

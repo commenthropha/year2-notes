@@ -1,2 +1,2 @@
 ### Definition
-A sequence of all past, present and future percepts received by the [[Controller]]
+A sequence of all past, present and future percepts received by the [[controller]]
