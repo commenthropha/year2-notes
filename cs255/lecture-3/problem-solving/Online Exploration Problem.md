@@ -1,0 +1,1 @@
+- The [[agent]] doesn't know what it's actions will do and must learn in order to progress towards the solution
