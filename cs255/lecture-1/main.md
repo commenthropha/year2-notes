@@ -1,12 +1,12 @@
 # Rational Agents
 ## Defining Agents
-We can define an [[agent]] and understand that they work under practical constraints which often make perfect reasoning unattainable or impractical
+We can define an [[Agent]] and understand that they work under practical constraints which often make perfect reasoning unattainable or impractical
 
-Hence, a good agent is one which aligns closely with some *[[goals or preferences]]* and we can use a [[performance measure]] to judge this quantitatively
+Hence, a good agent is one which aligns closely with some *[[Goals or Preferences]]* and we can use a [[Performance Measure]] to judge this quantitatively
 
-An action that maximises the expected value of the [[performance measure]] given the [[past experiences]] of the agent to date is what we would then define as a [[rational action]] *(i.e. doing the right thing)*
+An action that maximises the expected value of the [[Performance Measure]] given the [[Past Experiences]] of the agent to date is what we would then define as a [[Rational Action]] *(i.e. doing the right thing)*
 
-It is worth noting the **importance** of considering the [[past experiences]] of the [[agent]] to date
+It is worth noting the **importance** of considering the [[Past Experiences]] of the [[Agent]] to date
 - Doesn't take long to think of a situation that would explain why this is the case
 ### Conditions for an agent to act intelligently
 In general, we can outline the following 3 conditions for us to be able to say that an agent acts intelligently:
@@ -74,17 +74,17 @@ To solve some informally defined task, we must first find a formal representatio
 We want a *good* representation to be:
 - Detailed
 - Accurate
-- Able to be acquired from people, data and [[past experiences]]
-- [[Amenable to a computational solution]]
+- Able to be acquired from people, data and [[Past Experiences]]
+- [[Amenable to a Computational Solution]]
 ## Solutions
 ### Assumptions
 Typically, given an informal definition of a problem, much is left unspecified but the unspecified parts cannot be filled in arbitrarily
 
-Much work in AI is motivated by [[common-sense reasoning]]
+Much work in AI is motivated by [[Common-Sense Reasoning]]
 ### Quality of Solutions
-We can broadly categorise how [[Performance Measure|good]] a solution is using [[classes of solutions|classes]]
+We can broadly categorise how [[Performance Measure|good]] a solution is using [[Classes of Solutions|classes]]
 ## Reasoning
 ### Definition
 We can think of reasoning as the computation which determines how the agent should act.
 
-There are broadly 3 [[categories of reasoning]]
+There are broadly 3 [[Categories of Reasoning]]

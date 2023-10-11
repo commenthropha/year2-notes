@@ -1,5 +1,5 @@
 ### Optimal
-The best solution according to some [[performance measure]]
+The best solution according to some [[Performance Measure]]
 ### Approximately Optimal
 A close to optimal solution
 ### Satisficing

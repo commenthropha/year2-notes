@@ -1,0 +1,1 @@
+Current [[Stimuli]] that the [[Agent]] is receiving from the environment at the current moment
