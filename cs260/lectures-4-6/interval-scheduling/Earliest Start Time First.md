@@ -1,0 +1,1 @@
+Pick a compatible interval with the earliest starting time
