@@ -1,0 +1,1 @@
+Pick the shortest compatible interval
