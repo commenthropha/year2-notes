@@ -1,0 +1,2 @@
+- The [[agent]] has limited access to knowledge about its current state, and can determine a set of states which can possibly result from an action
+- It must then work with multiple states, hence why this is called a *multiple state problem*
