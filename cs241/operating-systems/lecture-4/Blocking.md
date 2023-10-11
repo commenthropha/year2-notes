@@ -1,0 +1,2 @@
+- The sender is blocked until the last sent message is received, and the receiver is blocked until there is something to read
+- This is considered to be a synchronous system
