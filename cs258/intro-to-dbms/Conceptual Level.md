@@ -1,0 +1,5 @@
+- The conceptual schema describes the design of a database at the conceptual level. Conceptual level is also known as logical level.
+- The conceptual schema describes the structure of the whole database.
+- The conceptual level describes what data are to be stored in the database and also describes what relationship exists among those data.
+- In the conceptual level, internal details such as an implementation of the data structure are hidden.
+- Programmers and database administrators work at this level.
