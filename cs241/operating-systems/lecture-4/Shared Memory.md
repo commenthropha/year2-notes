@@ -11,6 +11,7 @@ A technique for invoking behaviour whereby processes interact by reading from/wr
 In this model there are two types of processes:
 - [[Producer processes]]
 - [[Consumer processes]]
+This is sometimes referred to as the [[Producer-Consumer Paradigm]]
 #### How to prevent reading/writing when buffer is full/empty?
 - Implement the buffer as a circular queue
 	- Maintain pointers to the front and rear of the stored sequence of elements

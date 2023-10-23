@@ -1,0 +1,3 @@
+- Recall that admissibility does not guarantee that every path selected from the frontier is on an optimal path 
+- This means that A* does not guarantee that the first path found to a node is the lowest-cost path to that node 
+- However, we can make this the case by using a [[consistent heuristic]] 

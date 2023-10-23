@@ -1,0 +1,1 @@
+Since the time complexity of search techniques (b^k for branching factor b and path length k) depends on branching factor, we may choose to search forwards or backwards depending on which the [[Forwards Branching Factor|forward branching factor]] is less than the [[Backwards Branching Factor|backwards branching factor]] and vice versa

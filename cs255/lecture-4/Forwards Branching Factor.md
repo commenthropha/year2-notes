@@ -1,0 +1,1 @@
+Number of arcs out of a node

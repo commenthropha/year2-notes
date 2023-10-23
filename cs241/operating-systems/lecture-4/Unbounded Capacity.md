@@ -1,0 +1,1 @@
+- When the queue’s length is potentially infinite so the sender never blocks

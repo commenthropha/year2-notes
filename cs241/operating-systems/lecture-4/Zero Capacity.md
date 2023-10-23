@@ -1,0 +1,2 @@
+- When the queue has a max length of zero, so the link cannot have any messages waiting in it
+- Thus, the sender must block

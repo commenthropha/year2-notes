@@ -1,0 +1,1 @@
+A table constructed during [[Routing|routing]] using routing algorithms which is then used in [[Forwarding|forwarding]] to forward a packet to the appropriate output link

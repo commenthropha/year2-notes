@@ -1,0 +1,1 @@
+The idea that an entire [[Packets|packet]] must arrive at a router before it can be transmitted on the next link

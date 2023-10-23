@@ -1,0 +1,2 @@
+### Definition
+A style of proof that works by showing that, according to some measure, **the greedy algorithm always is at least as far ahead as the optimal solution during each iteration of the algorithm**.

@@ -12,7 +12,7 @@ In a nutshell, DB systems provide software to 'manage' data:
 ### Thinking of Database Systems (as a black box)
 We can think of a Database System as a "box" with a nice interface offering the above functionality that is based on:
 - an easy to understand data model
-- a [[year2-notes/cs258/lecture-1/Declarative Programming Language|Declarative Programming Language]] (e.g. SQL)
+- a [[Declarative Programming Language|Declarative Programming Language]] (e.g. SQL)
 
 A framework commonly used to describe the *structure* of a database system is the [[3 Schema DBMS Architecture]] model.
 ### Key Facts about Data
@@ -28,7 +28,7 @@ A database can be described as *a set of structured data stored in a computer*. 
 
 In this model, databases are comprised of **tables** (also called [[Relation||relations]]), which themselves consist of **rows** (also called [[Tuple|tuples]]) and **columns** which represent an individual characteristic/attribute of interest of that entity
 
-The structure or shape of the data in the table is called the [[table schema]]. The set of tables schemas in a database is called the [[database schema]].
+The structure or shape of the data in the table is called the [[Table Schema]]. The set of tables schemas in a database is called the [[Database Schema]].
 ## Formal Definitions
 - [[Tuple]]
 - [[Relation]]

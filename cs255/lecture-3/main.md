@@ -27,7 +27,15 @@ We can categorise problems as follows:
 - [[Contingency Problem|Stochastic, Partially Observable]] (Contingency Problem)
 - [[Online Exploration Problem|Unknown State Space, Knowledge is Learned]] (Online Exploration Problem)
 
-## Uninformed Search Techniques
+## Uninformed Search 
 Before we begin to look at search techniques, we introduce two important notions; that of:
 - [[Admissible Algorithms]]
 - [[Complete Algorithms]]
+### Techniques
+- [[Tree Search]]
+- [[BFS Tree Search]]
+- [[DFS Tree Search]]
+- [[Graph Search]]
+- [[BFS Graph Search]]
+- [[DFS Graph Search]]
+- [[Lowest-Cost-First Search]]

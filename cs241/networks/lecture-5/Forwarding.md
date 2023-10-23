@@ -1,0 +1,1 @@
+Once a [[Packets|packet]] arrives, it is forwarded to the appropriate output link according to the routing table

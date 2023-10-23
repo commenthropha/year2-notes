@@ -1,6 +1,6 @@
 # SQL - Structured Query Language
 ## SQL as a Language
-SQL is a [[year2-notes/cs258/lecture-1/Declarative Programming Language|Declarative Programming Language]]
+SQL is a [[Declarative Programming Language|Declarative Programming Language]]
 
 This removes a great deal of complexity from data manipulation as the underlying DB implementation is responsible for finding the optimal way to retrieve the required data
 
@@ -28,7 +28,7 @@ CREATE TABLE students (
 - Allows attribute constraints based on application semantics
 - `CHECK (condition)`
 #### `CREATE SCHEMA`
-We can create a new [[table schema]] as follows:
+We can create a new [[Table Schema|table schema]] as follows:
 ```sql
 CREATE SCHEMA <schemaName>;
 ```

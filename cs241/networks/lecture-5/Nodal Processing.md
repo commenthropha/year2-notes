@@ -1,0 +1,2 @@
+-  The nodal processing delay represents the time a router spends processing the packet, including error checking and a [[Routing Table|router table]] lookup
+- This is typically small: < 1ms

@@ -1,0 +1,1 @@
+We can think of a 'flow' as the path of communication links between two [[End Host|end hosts]]
