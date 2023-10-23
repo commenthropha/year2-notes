@@ -1,0 +1,2 @@
+- When the queue has finite length, so when full the sender must block
+- When there is spare capacity, the sender need not block
