@@ -15,6 +15,9 @@ In many settings in which divide and conquer is applied, the natural brute-force
 - [[Merge Sort and Sorting]]
 - [[Counting Inversions]]
 - [[Closest Pairs of Points]]
-- [[The Master Method]]
-- [[Integer Multiplication]]
-- [[Matrix Multiplication]]
+### Solving Recurrence Relations
+[[The Master Method]] provides us with a quick way to solve common forms of recurrence relations that arise in this module
+### Mathematical Applications
+We can use divide and conquer algorithms to speed up fundamental mathematical operations. For example:
+- Integer Multiplication
+- Matrix Multiplication
