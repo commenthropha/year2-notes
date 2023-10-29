@@ -1,0 +1,1 @@
+(With reference to cache) A measure of how many content requests a cache is able to fill successfully, compared to how many total requests it receives
