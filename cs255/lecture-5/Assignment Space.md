@@ -1,0 +1,1 @@
+All the possible assignment combinations for a set of variables in a CSP
