@@ -1,0 +1,2 @@
+A spanning tree *T* of an undirected graph G is a sub graph that is a [[Trees|tree]] which includes all of the vertices of G
+- In general, a graph may have several spanning trees but a graph that is not connected will **not** contain a spanning tree

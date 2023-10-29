@@ -1,0 +1,1 @@
+The setup required between client and server processes before they start transferring data as outlined by the [[TCP (Transmission Control Protocol)]]

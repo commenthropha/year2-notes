@@ -1,0 +1,7 @@
+- This method has been used from HTTP v1.1 onwards
+- Multiple objects can be sent over a single [[TCP (Transmission Control Protocol)|TCP]] connection
+	- Server leaves connection open after sending response
+	- Subsequent HTTP messages are exchanged over the open connection
+	- Client sends requests back-to-back as soon as it encounters a referenced object
+- Since the [[TCP Handshake]] only need be performed once, all data can be obtained within 2 · [[RTT]] + data transfer time
+- Far fewer computational resources are needed to maintain a single [[TCP (Transmission Control Protocol)|TCP]] connection compared to the multiple required by a [[Non-Persistent HTTP Connection|non-persistent HTTP connection]]
