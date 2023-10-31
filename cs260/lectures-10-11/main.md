@@ -8,6 +8,7 @@ Recall some fundamental concepts involving graphs covered in first year. For exa
 - [[Paths]] 
 - [[Connectivity]]
 - [[Cycles]]
+- [[Cutset]]
 - [[Trees]]
 - [[Rooted Trees]]
 - [[Spanning Trees]]
@@ -16,3 +17,4 @@ Recall some fundamental concepts involving graphs covered in first year. For exa
 - [[Testing Bipartitness via Breadth-First Search]]
 - [[Connectivity in Directed Graphs via Breadth-First Search]]
 - [[Minimum Spanning Tree]]
+- [[Djikstra's Shortest Path]]

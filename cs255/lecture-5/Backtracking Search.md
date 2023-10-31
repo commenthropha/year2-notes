@@ -6,4 +6,3 @@
 ### Pseudocode
 The algorithm can be implemented recursively as follows:
 ![[Pasted image 20231024114158.png]]
-

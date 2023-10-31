@@ -1,0 +1,1 @@
+The act of establishing conditions that identify assignments which cannot work

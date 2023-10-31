@@ -1,0 +1,1 @@
+When threads race to modify a shared variable in different ways and some updates overwrite others, causing them to be lost
