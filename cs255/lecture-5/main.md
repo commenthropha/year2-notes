@@ -22,21 +22,30 @@ A noteworthy brute-force approach to solving CSPs is the [[Generate-And-Test Alg
 - As the assignment space D has d^n elements, we would need to test d^n assignments and clearly trial-and-error would not be efficient
 	- Instead, we can employ [[Backtracking Search|backtracking search]]
 	- To further improve the efficiency of backtracking, we can implement a few [[Backtracking Heuristics|heuristics]]
-### CSP as Graph Searching
+### Structuring CSPs as a Graph
 One way to characterise a CSP is as a [[CSP as Graph Searching|graph search problem]]
 ### Constraint Networks
-A [[Constraint Network|constraint network]] is a model that serves as a way of representing a CSP in a graph structure distinct from the above
+A [[Constraint Network|constraint network]] is a model that serves as a way of representing a CSP in a graph structure
+- This is usually what a question is referring to when it asks us to 'draw the constraint graph'
 #### Advantages
-This model allows us to enforce [[Consistency|consistency]]; the two types of consistency conditions are:
-- [[Domain Consistency]]
-- [[Arc Consistency]]
-### CSPs as Tree Searching
-If the constraint graph is a tree (or forest), the CSP can be solved in *O*(n • d^2) - much better than the general O(d^n) bound
-#### Algorithm
+The constraint network model allows us to enforce [[Consistency|consistency]]; the two types of consistency conditions are:
+- [[Domain Consistency]] (For constraints involving a single variable)
+- [[Arc Consistency]] (For constraints involving more than one variable)
+
+The idea behind enforcing consistency is that we can apply some pre-processing to the constraint network to eliminate assignments which will obviously not work
+### Structuring CSPs as a Tree
+If the [[Constraint Network|constraint network graph]] is a [[Trees|tree]] (or forest), the CSP can be solved in *O*(n • d^2) - much better than the general O(d^n) bound
+#### Algorithm for Solving Tree-Structured CSPs
 ![[Pasted image 20231029115037.png]]
-#### Nearly Tree-Structured CSPs
-- A natural question is whether we can apply the efficiency improvements detailed above to CSPs which almost have a tree structure
-- Formally, this means the number of nodes we need to eliminate from the CSP network such that a forest remains is small
-	- A set of such variables is called a *cutset*
+### Nearly Tree-Structured CSPs
+A natural question is whether we can apply the efficiency improvements detailed for tree-structures CSPs to those which almost have a tree structure
+
+To do this, we need to condition the data structure, by either using:
+- [[Conditioning]]
+- [[Cutset Conditioning]]
+### Variable Elimination
+Often, however it is the case that our [[Constraint Network|constraint network graph]] is neither tree-structured nor nearly tree-structured
+
+In that case, we can use a method known as [[Variable Elimination|variable elimination]] to find a satisfying assignment and we do this *after* enforcing [[Consistency|consistency]] using [[Domain Consistency|domain consistency]] and [[Arc Consistency|arc consistency]]
 ## Question Approaches
 - [[Backtracking Qs Approach]]
