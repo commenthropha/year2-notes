@@ -29,8 +29,8 @@ A [[Constraint Network|constraint network]] is a model that serves as a way of r
 - This is usually what a question is referring to when it asks us to 'draw the constraint graph'
 #### Advantages
 The constraint network model allows us to enforce [[Consistency|consistency]]; the two types of consistency conditions are:
-- [[Domain Consistency]] (For constraints involving a single variable)
-- [[Arc Consistency]] (For constraints involving more than one variable)
+- [[Domain Consistency]] (For constraints involving a single variable i.e. unary constraints)
+- [[Arc Consistency]] (For constraints involving more than one variable i.e. higher order constraints)
 
 The idea behind enforcing consistency is that we can apply some pre-processing to the constraint network to eliminate assignments which will obviously not work
 ### Structuring CSPs as a Tree
