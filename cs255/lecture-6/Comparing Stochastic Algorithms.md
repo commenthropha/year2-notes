@@ -1,0 +1,1 @@
+The method primarily used for comparing stochastic algorithms is via a [[Runtime Distribution|runtime distribution]]
