@@ -10,7 +10,6 @@ Including accompanying illustrative problems
 - [[Multiway Choice (Segmented Least Squares)]]
 - [[Two Dimensional Dynamic Programming (Knapsack)]]
 - [[Dynamic Programming for Sequences and Strings]]
-- [[Reducing Memory Cost for Tables By Reusing Space]]
 ### Generic Approach
 1. Characterise structure of problem
 2. Recursively define value of optimal solution
