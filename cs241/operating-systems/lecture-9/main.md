@@ -28,3 +28,6 @@ All signals follow the same pattern irrespective of type:
 ### Types of Signal Handlers
 - [[default]]
 - [[user-defined]]
+### Signals in Multi-Threaded Applications
+- In a multi-threaded program, signals can be sent to a specific thread, or to all threads
+- Synchronous signals are usually sent to the thread which gave rise to them, while some asynchronous signals (like `SIGINT`) are to sent to all threads
