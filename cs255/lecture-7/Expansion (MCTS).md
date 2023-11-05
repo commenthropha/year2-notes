@@ -1,0 +1,1 @@
+Grow the tree by generating a new child of the selected node.

@@ -1,0 +1,1 @@
+Use the result of playout to update search tree going up to the root

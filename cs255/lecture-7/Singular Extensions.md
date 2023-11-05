@@ -1,0 +1,1 @@
+A technique for avoiding the [[Horizon Problem|horizon problem]] whereby we search until we encounter a move which is clearly better than all the other options; we call such moves a singular extension

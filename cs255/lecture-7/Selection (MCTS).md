@@ -1,0 +1,1 @@
+Starting at the root, choose a move (using selection policy) leading to a successor, and repeat, moving to a leaf
