@@ -1,1 +1,0 @@
-A language to specify queries and updates
