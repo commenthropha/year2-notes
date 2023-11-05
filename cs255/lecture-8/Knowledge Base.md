@@ -1,0 +1,1 @@
+A database of facts, beliefs and goals represented as a set of propositions that are stated to be true

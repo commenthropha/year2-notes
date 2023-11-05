@@ -1,4 +1,4 @@
-MCTS works to estimate the value of a node from the average utility over simulations (known as *playouts*) of complete games starting from the state.
+MCTS works to estimate the value of a node from the average utility over simulations of complete games (known as *playouts*) starting from the state.
 
 A *playout policy* is used to determine which moves to determine during the playout:
 - Some games can learn from self-play using neural networks
