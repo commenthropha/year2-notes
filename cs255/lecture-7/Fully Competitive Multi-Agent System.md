@@ -1,0 +1,1 @@
+A [[Multi-Agent Systems|multi-agent system]] that is a zero-sum game; one agent wins only when all other agents lose (so the sum of utilities is 0)

@@ -13,7 +13,7 @@
 **Exponential** in the same way as time complexity
 - This is because A* keeps all explored paths in memory
 ### Admissibility
-We say that the algorithm is admissible if and only if
+We say that the algorithm is [[Admissible Algorithms|admissible]] if and only if
 - The branching factor is finite
 - Arc costs are bounded above zero
 - *h(x)* is bounded above zero

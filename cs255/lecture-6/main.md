@@ -20,6 +20,4 @@ We can then think about local search as moving around the landscape trying to fi
 - [[Hill-Climbing]]
 - [[Local Search for CSPs (Greedy Descent)]]
 - [[Parallel Search]]
-- Beam Search
-
-A similar, although not technically local search, notion is that of genetic algorithms 
+- [[Beam Search]]

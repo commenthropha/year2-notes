@@ -1,0 +1,1 @@
+Positions whose values are unlikely to change significantly in the near future

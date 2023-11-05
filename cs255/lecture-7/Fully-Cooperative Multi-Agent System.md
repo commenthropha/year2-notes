@@ -1,0 +1,1 @@
+A [[Multi-Agent Systems|multi-agent system]] in which all agents share the same utility
