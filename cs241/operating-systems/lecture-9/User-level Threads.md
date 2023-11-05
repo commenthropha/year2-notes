@@ -1,0 +1,2 @@
+- Exist within user processes if they are multi-threaded
+- For a user-level thread to execute on a CPU, it must be associated with a kernel-level thread

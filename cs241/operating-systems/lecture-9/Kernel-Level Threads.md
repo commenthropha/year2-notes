@@ -1,0 +1,3 @@
+- Kernel itself may be multi-threaded
+- Some kernel threads provide services to the users and others are used to run user processes
+- Kernel can schedule them on different CPUs
